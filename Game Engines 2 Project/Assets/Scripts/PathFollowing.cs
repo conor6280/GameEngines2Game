@@ -4,13 +4,13 @@ using UnityEngine;
 
 public class PathFollowing : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public static GameObject Target;
+
     void Start()
     {
-        
+        Vector3 Attack = new Vector3(Target.transform.position);
     }
 
-    // Update is called once per frame
     void Update()
     {
         
