@@ -2,7 +2,7 @@
 Bardock tries to stop Freeza from blowing up planet Vegeta from 'Dragonball Z: Episode of Bardock'
 
 ![Uploading (3) Bardock VS Freeza a última batalha - YouTube - Google Chrome 01_03_2021 21_14_18.png…]()
-Bardock flies into space to try and stoop freeza blowing up his home planet.
+Bardock flies into space to try and stop freeza blowing up his home planet.
 
 ![(3) Bardock VS Freeza a última batalha - YouTube - Google Chrome 01_03_2021 21_14_26](https://user-images.githubusercontent.com/61231065/109560554-f0b4c900-7ad3-11eb-886a-6a290a917001.png)
 He is swarmed by Freeza's army.
