@@ -13,6 +13,7 @@ Video:
 https://user-images.githubusercontent.com/61231065/119129495-e816c380-ba2e-11eb-9742-cdfa04a009b7.mp4
 
 
+
 Story Board:
 
 Bardock tries to stop Freeza from blowing up planet Vegeta from 'Dragonball Z: Episode of Bardock'
