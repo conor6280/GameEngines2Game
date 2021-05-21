@@ -1,4 +1,13 @@
 # GameEngines2Game
+I used Path following
+I wanted it to be the same every time so I used timers to make things happen when i wanted them to
+I wrote all my own classes
+All the characters came from Sketchfab.com, the ship is made with pro-builder
+
+Video:
+https://www.youtube.com/watch?v=C1vIy2wLdYI&ab_channel=ConorDunneConorDunne
+
+Story Board:
 Bardock tries to stop Freeza from blowing up planet Vegeta from 'Dragonball Z: Episode of Bardock'
 
 ![Uploading (3) Bardock VS Freeza a última batalha - YouTube - Google Chrome 01_03_2021 21_14_18.png…]()
