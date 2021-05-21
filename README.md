@@ -9,10 +9,12 @@ I wrote all my own classes
 All the characters came from Sketchfab.com, the ship is made with pro-builder
 
 Video:
+
 https://user-images.githubusercontent.com/61231065/119129495-e816c380-ba2e-11eb-9742-cdfa04a009b7.mp4
 
 
 Story Board:
+
 Bardock tries to stop Freeza from blowing up planet Vegeta from 'Dragonball Z: Episode of Bardock'
 
 ![Uploading (3) Bardock VS Freeza a última batalha - YouTube - Google Chrome 01_03_2021 21_14_18.png…]()
